@@ -65,3 +65,15 @@ Perform seniority analysis (Graduate, Junior, Senior, Lead).
 Build an interactive dashboard using Streamlit.
 Integrate additional job data sources.
 use alternative API for longer descriptions and analyse skills.
+
+To replicate this have the project under this structure
+jobscraperproject/
+│
+├── data/
+│   └── raw/
+│       └── jobs.csv
+│
+├── jobscraperproject.ipynb
+├── config.py          (excluded from Git) ---> this file should contain your own Adzuna API and Key
+├── .gitignore
+└── README.md
