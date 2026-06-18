@@ -1,4 +1,5 @@
 Australian AI & Data Job Market Analysis Overview
+(originally named job scraper project).
 
 This project was developed as part of my effort to improve practical machine learning, NLP, and data engineering skills by analysing real world Australian job market data using Adzuna API.
 
